@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-avalok",
+  "private_key_id": "dd7e4ec192cb50a52a424a6c5abb23808bbfe3ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDsZhaSVOLPDcJJ\nkiNc48raQo3n+ntNjpkNeEUQHYHsQfogx1/HDHsWzApJ9y2ju2wvtIJutEcbz+2B\navMBYnk5a+hFvE69x7WCovX6tZijg0cMTMnrE/Pz/jK2w+Di6VZd7HllEKTBQI5+\njj9rD/g5CXLWyTv8lyv6A4bqqnR5gvZ/AC8LWC4ytbfzbW6lykSNdaKbVyzL6mRM\nSJ/vybulEi0SCp6Vi5Q9wP1ki+ypRxBLJEOTR3SKbNsgcj9ICSW7o2gFErWXdn6x\naobQ9xMDut3S7cMlO64m3tjeFwYlO4kWo2CkKpCRBuCxASR3ELd2R7I20Wj8aasF\nmlAkAwPTAgMBAAECggEAGw1VAz/a3fjkGokyVMdDMmuFU7OdTUhxM/0Rt4C478az\nufE21k9o/TiHljlGrBhJjsKoXm9w57oz9/27e0AVQUCbnvH9TMhqzrKZVYGsdaG9\n4qbIQId9q5aTn8iV6+w/KZZjD0ayo+QgVP6FkVni0kbGMSrBcOwCaKTjWT1SVjPc\ndCKiPqPKYOICR9xpDQLktWpm+zmhaSH/l4qXAyGIiQKT2Ddr95uO/+hKqXhqHwpK\ngHrvnLbjmm0Nvc82R6rW6aGw3kKlvkJBr6GMoAMxmgkKb+Vr6GvWCMH0Ox1DVbeO\nhEKdIAAxMKyHhqicwxKDMW3WPdiTAJnYvrtOl+Uu4QKBgQD5q7YGuw0jUvByEe0J\nNKGdKnKam5erS4ub2DSYEzdUScffiIt736jcY+IxRkNNFbrCcib58BJOHwqgOPHW\n+6N7JYbnMx3UpXQZEObqqkBZrTZpZCaPkQpVomVNkMGKs/FSD+EDsVFBaTQ5GbHZ\nw1KIT/afn+EM4DQn/cYjzZFNcQKBgQDyZD77fyLmNoofgaCWo4J1+MH06FhFkZgp\nZpa5vIjnI5EjPVr97GpH89ZEVoYgIqw8XfPUQnyJt+crEgYZZObhj8DG9SHJ5Wni\nZMr3P9TyTRu/Qiswa8wWFQlJUSyea4lD8m7j5Zf9yFt11rpBjalrzy5HFqTHb4DT\nAvUFx/kTgwKBgQDoGNRylVi1Sdj0ce2k7SSAcoFvcM0iFGyISAk8hkCdPqlsCAeC\n9HyJxOD1ZZgTBOxE7tGE78RUk07Re552eB+Vz2EFdON6VwUCeE/yPqrrsrYua0fd\nlrvAt+LspHEHfBgObWyEfkZHRIGjw1suUQFcbtmZsosH6TUTKDsV9XfqQQKBgQCC\n++cJEvfx/bEAO5VjMfKy+30ccl4ZIgdfAAAdWKOGfDLXHzXHl/UK8tprzXHndbUr\nXf4ASvlvloCGRtQi7uLRK1SabycWKjHg1GTV3ZmeYkrHPOOH5AjCOhXtl78L0MK5\nhA2me5B55MZ/1EyMVhgimS/B3Juo5jlwTd3IhPq1LwKBgDX2d1Z/PxQX0iCEHdSN\nWXR9nftDz9nguufL0Y3N3ZUVNdRivivAXXdRqdvsbNJ3mtByoktbu6WYk/3IQQ28\nDn+RTjtQhZeA3KF5e23sLb/sQpnwVveboV+hw8DRjffugVe8t7NuQsjjD9+DN3mO\nWvfcflZcrjAIbkmIFVuc4nqO\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@project-avalok.iam.gserviceaccount.com",
+  "client_id": "107832184933220671264",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40project-avalok.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
