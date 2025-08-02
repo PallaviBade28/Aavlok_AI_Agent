@@ -79,4 +79,3 @@ All agents are built using Google’s **ADK toolkit**, with support from **RAG-b
 
 ---
 
-ed under the [MIT License](LICENSE).
